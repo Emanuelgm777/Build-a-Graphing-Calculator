@@ -23,12 +23,6 @@ JavaScript: Para la lógica de la calculadora, que procesa las funciones matemá
 
 Chart.js o D3.js: Para la generación de gráficos interactivos basados en las funciones ingresadas.
 
-Cómo usar el proyecto
-
-Clonar el repositorio
-
-git clone https://github.com/emanuelgm1998/build-a-graphing-calculator.git  
-
 
 Abrir el archivo HTML en tu navegador
 Navega a la carpeta del proyecto y abre el archivo index.html en tu navegador.
